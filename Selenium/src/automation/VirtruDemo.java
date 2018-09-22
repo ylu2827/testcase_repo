@@ -23,7 +23,7 @@ public class VirtruDemo {
 
         WebDriver driver = new ChromeDriver(options);
         driver.get("https://www.google.com");
-        System.out.println("end.......");
+        
         
 		/*
 	    
