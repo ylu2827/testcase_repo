@@ -17,7 +17,7 @@ public class VirtruAssert {
 	private String inbox = "Inbox";
 	private String sentMail = "Sent Mail";
 	private String emailTitle = "Virtru Test";
-	private String myEmailAddress = "yangautomationtesting@gmail.com";
+	//private String myEmailAddress = "yangautomationtesting@gmail.com";
 	
 	public void getURL(WebDriver driver) throws InterruptedException
 	{
